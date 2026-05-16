@@ -1,0 +1,56 @@
+{
+  "nav": { "books":"Sirvi Raamatuid","cart":"Ostukorv","orders":"Minu Tellimused","admin":"Admin" },
+  "home": {
+    "hero_title":"Sinu Järgmine Lemmikraamat Ootab",
+    "hero_sub":"Sirvi tuhandeid pealkirju iga žanri lõikes.",
+    "browse_btn":"Sirvi Kataloogi",
+    "track_btn":"Jälgi Tellimust",
+    "stats_books":"Raamatut Saadaval","stats_orders":"Tellimust Esitatud","stats_genres":"Žanrit"
+  },
+  "books": {
+    "title":"Sirvi Raamatuid","subtitle":"Leia oma järgmine suurepärane lugemine",
+    "search_ph":"Otsi pealkirja või autori järgi…",
+    "all_categories":"Kõik Kategooriad",
+    "sort_title":"Pealkiri","sort_price":"Hind","sort_author":"Autor",
+    "in_stock":"Laos Olemas","low_stock":"Vähe Laos","out_of_stock":"Otsas",
+    "add_to_cart":"Lisa Korvi","view":"Vaata",
+    "pages":"lehekülge","publisher":"Kirjastus","year":"Aasta","language":"Keel",
+    "no_results":"Otsingule vastavaid raamatuid ei leitud.","clear_filters":"Tühista Filtrid"
+  },
+  "cart": {
+    "title":"Ostukorv","subtitle":"Vaata valik üle enne tellimist",
+    "empty":"Sinu ostukorv on tühi","empty_sub":"Mine tagasi raamatuid sirvima.",
+    "browse":"Sirvi Raamatuid","item":"Raamat","qty":"Kogus","unit_price":"Hind","subtotal":"Vahesumma",
+    "remove":"Eemalda","total":"Tellimuse Kogusumma","place_order":"Esita Tellimus","clear":"Tühjenda Korv"
+  },
+  "checkout": {
+    "title":"Lõpeta Oma Tellimus","name":"Täisnimi","name_ph":"Jaan Tamm",
+    "email":"E-post","email_ph":"jaan@näide.ee","phone":"Telefon (valikuline)","phone_ph":"+372 5000 0000",
+    "notes":"Märkused (valikuline)","notes_ph":"Kinkepakend? Tarne juhised?",
+    "submit":"Kinnita Tellimus","cancel":"Tühista",
+    "success":"Tellimus esitatud!","order_no":"Sinu tellimuse number on"
+  },
+  "orders": {
+    "title":"Tellimuste Ajalugu","subtitle":"Kõik varasemad ja praegused tellimused",
+    "track_title":"Jälgi Tellimust","track_ph":"Sisesta tellimuse number…","track_btn":"Jälgi",
+    "no":"Tellimus #","customer":"Klient","status":"Olek","total":"Summa","date":"Kuupäev","items":"Tooted",
+    "none":"Tellimusi veel pole.",
+    "PENDING":"Ootel","CONFIRMED":"Kinnitatud","PROCESSING":"Töötlemisel",
+    "SHIPPED":"Saadetud","DELIVERED":"Kohale Toimetatud","CANCELLED":"Tühistatud"
+  },
+  "admin": {
+    "title":"Admin Töölaud","subtitle":"Halda raamatute kataloogi",
+    "add":"Lisa Raamat","edit":"Muuda","delete":"Kustuta","save":"Salvesta","cancel":"Tühista",
+    "confirm_del":"Kustutad selle raamatu kataloogist?",
+    "title_f":"Pealkiri","author_f":"Autor","isbn_f":"ISBN","desc_f":"Kirjeldus",
+    "price_f":"Hind (€)","stock_f":"Laoseis","publisher_f":"Kirjastus","year_f":"Aasta",
+    "pages_f":"Lehekülgi","lang_f":"Keel","cat_f":"Kategooria","cover_f":"Kaanepildi URL","active_f":"Aktiivne",
+    "updated":"Raamat uuendatud","created":"Raamat loodud","deleted":"Raamat kustutatud",
+    "stat_total":"Raamatuid Kokku","stat_active":"Aktiivne","stat_low":"Vähe Laos","stat_orders":"Tellimusi Kokku"
+  },
+  "common": {
+    "loading":"Laadimine…","error":"Midagi läks valesti","retry":"Proovi uuesti",
+    "save":"Salvesta","cancel":"Tühista","close":"Sulge","yes":"Jah","no":"Ei",
+    "page":"Leht","of":"kohta","items":"kirjet","eur":"€","per_item":"/ tk"
+  }
+}

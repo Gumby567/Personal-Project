@@ -1,0 +1,56 @@
+{
+  "nav": { "books":"Browse Books","cart":"Cart","orders":"My Orders","admin":"Admin" },
+  "home": {
+    "hero_title":"Your Next Favourite Book Awaits",
+    "hero_sub":"Browse thousands of titles across every genre.",
+    "browse_btn":"Browse Catalogue",
+    "track_btn":"Track My Order",
+    "stats_books":"Books Available","stats_orders":"Orders Placed","stats_genres":"Genres"
+  },
+  "books": {
+    "title":"Browse Books","subtitle":"Find your next great read",
+    "search_ph":"Search by title or author…",
+    "all_categories":"All Categories",
+    "sort_title":"Title","sort_price":"Price","sort_author":"Author",
+    "in_stock":"In Stock","low_stock":"Low Stock","out_of_stock":"Out of Stock",
+    "add_to_cart":"Add to Cart","view":"View",
+    "pages":"pages","publisher":"Publisher","year":"Year","language":"Language",
+    "no_results":"No books match your search.","clear_filters":"Clear Filters"
+  },
+  "cart": {
+    "title":"Shopping Cart","subtitle":"Review your selection before ordering",
+    "empty":"Your cart is empty","empty_sub":"Head back to browse books.",
+    "browse":"Browse Books","item":"Book","qty":"Qty","unit_price":"Price","subtotal":"Subtotal",
+    "remove":"Remove","total":"Order Total","place_order":"Place Order","clear":"Clear Cart"
+  },
+  "checkout": {
+    "title":"Complete Your Order","name":"Full Name","name_ph":"Jane Smith",
+    "email":"Email","email_ph":"jane@example.com","phone":"Phone (optional)","phone_ph":"+372 5000 0000",
+    "notes":"Notes (optional)","notes_ph":"Gift wrap? Delivery instructions?",
+    "submit":"Confirm Order","cancel":"Cancel",
+    "success":"Order placed!","order_no":"Your order number is"
+  },
+  "orders": {
+    "title":"Order History","subtitle":"All past and current orders",
+    "track_title":"Track Order","track_ph":"Enter your order number…","track_btn":"Track",
+    "no":"Order #","customer":"Customer","status":"Status","total":"Total","date":"Date","items":"Items",
+    "none":"No orders yet.",
+    "PENDING":"Pending","CONFIRMED":"Confirmed","PROCESSING":"Processing",
+    "SHIPPED":"Shipped","DELIVERED":"Delivered","CANCELLED":"Cancelled"
+  },
+  "admin": {
+    "title":"Admin Dashboard","subtitle":"Manage the book catalogue",
+    "add":"Add Book","edit":"Edit","delete":"Delete","save":"Save","cancel":"Cancel",
+    "confirm_del":"Delete this book from the catalogue?",
+    "title_f":"Title","author_f":"Author","isbn_f":"ISBN","desc_f":"Description",
+    "price_f":"Price (€)","stock_f":"Stock","publisher_f":"Publisher","year_f":"Year",
+    "pages_f":"Pages","lang_f":"Language","cat_f":"Category","cover_f":"Cover URL","active_f":"Active",
+    "updated":"Book updated","created":"Book created","deleted":"Book deleted",
+    "stat_total":"Total Books","stat_active":"Active","stat_low":"Low Stock","stat_orders":"Total Orders"
+  },
+  "common": {
+    "loading":"Loading…","error":"Something went wrong","retry":"Retry",
+    "save":"Save","cancel":"Cancel","close":"Close","yes":"Yes","no":"No",
+    "page":"Page","of":"of","items":"items","eur":"€","per_item":"/ item"
+  }
+}
